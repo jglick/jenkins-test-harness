@@ -140,7 +140,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>jenkins-test-harness-htmlunit</artifactId>
-      <version>3</version>
+      <version>101.v47b_052d78b_ca_</version>
       <exclusions>
         <exclusion>
           <groupId>commons-io</groupId>
